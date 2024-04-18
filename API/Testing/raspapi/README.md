@@ -26,3 +26,9 @@
 
 ![image](https://github.com/KTerminasov/Portfolio/assets/115955325/266b7f60-bfda-4af5-9f90-a678babcd395)
 
+После выполнения запроса получим json файл, содержащий информацию обо всех станциях, информацию о которых предоставляют Яндекс.Расписания:
+
+![image](https://github.com/KTerminasov/Portfolio/assets/115955325/ba6d4039-dec1-434d-a498-27791d3d9551)
+
+
+
